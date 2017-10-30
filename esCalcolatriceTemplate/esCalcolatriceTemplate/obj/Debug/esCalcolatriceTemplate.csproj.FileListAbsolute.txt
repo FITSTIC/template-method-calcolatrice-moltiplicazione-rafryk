@@ -1,0 +1,7 @@
+C:\Users\raffaele.balzani\Documents\Visual Studio 2017\Projects\esCalcolatriceTemplate\esCalcolatriceTemplate\bin\Debug\esCalcolatriceTemplate.exe.config
+C:\Users\raffaele.balzani\Documents\Visual Studio 2017\Projects\esCalcolatriceTemplate\esCalcolatriceTemplate\bin\Debug\esCalcolatriceTemplate.exe
+C:\Users\raffaele.balzani\Documents\Visual Studio 2017\Projects\esCalcolatriceTemplate\esCalcolatriceTemplate\bin\Debug\esCalcolatriceTemplate.pdb
+C:\Users\raffaele.balzani\Documents\Visual Studio 2017\Projects\esCalcolatriceTemplate\esCalcolatriceTemplate\obj\Debug\esCalcolatriceTemplate.csprojResolveAssemblyReference.cache
+C:\Users\raffaele.balzani\Documents\Visual Studio 2017\Projects\esCalcolatriceTemplate\esCalcolatriceTemplate\obj\Debug\esCalcolatriceTemplate.csproj.CoreCompileInputs.cache
+C:\Users\raffaele.balzani\Documents\Visual Studio 2017\Projects\esCalcolatriceTemplate\esCalcolatriceTemplate\obj\Debug\esCalcolatriceTemplate.exe
+C:\Users\raffaele.balzani\Documents\Visual Studio 2017\Projects\esCalcolatriceTemplate\esCalcolatriceTemplate\obj\Debug\esCalcolatriceTemplate.pdb
